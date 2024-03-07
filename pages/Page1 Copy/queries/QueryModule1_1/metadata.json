@@ -1,7 +1,5 @@
 {
-  "moduleInstanceId": "Page1 Copy_QueryModule1_1",
   "isPublic": true,
-  "rootModuleInstanceId": "Page1 Copy_QueryModule1_1",
   "pluginType": "DB",
   "pluginId": "postgres-plugin",
   "unpublishedAction": {
